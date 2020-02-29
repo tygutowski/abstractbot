@@ -1,0 +1,6 @@
+Programmed this all in 3 hours.  New record for a project like this.
+The config.py file contains all of the important variables.
+KEY and ENDPOINT will be given by Microsoft Azure Face
+TOKEN will be given by Discord
+DOWNVOTES is the amount of downvotes needed to remove the message and reactions (In case it sees faces when there aren't any)
+CHANNEL_NAME is the text channel's name
