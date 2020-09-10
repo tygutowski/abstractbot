@@ -1,4 +1,5 @@
-Programmed this all in 3 hours.  New record for a project like this.
+Discord bot that detects if a photo sent by any user in a designated channel contains a face.  If it does, the photo is automatically deleted.
+
 The config.py file contains all of the important variables.
 KEY and ENDPOINT will be given by Microsoft Azure Face
 TOKEN will be given by Discord
